@@ -1,5 +1,5 @@
 # CatlikecodingWithCpp
-# [Catlikecoding](https://catlikecoding.com/unity/tutorials/) Unity tutorials in C++. A nice way to get introduced to Ogre3D.
+# [Catlikecoding](https://catlikecoding.com/unity/tutorials/) unity3D tutorials in C++. A nice way to get introduced to Ogre3D.
 
 # Motivation:
 * [Catlikecoding tutorials](https://catlikecoding.com/unity/tutorials/) build on one another, introducing new programming concepts, math, and algorithms. It is fun.
