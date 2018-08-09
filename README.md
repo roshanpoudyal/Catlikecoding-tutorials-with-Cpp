@@ -9,7 +9,7 @@
 ### How?
 * Use a 3D engine written in C++ - obvious choice is [Ogre3D](https://www.ogre3d.org/about) - to implement [catlikecoding tutorials](https://catlikecoding.com/unity/tutorials/) in C++.
 * Get to know more of Ogre3D by following [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials).
-* And worth mentioning is [A list of recommended programming-related books](http://wiki.ogre3d.org/Recommended+reading) from Ogre3D for Graphics, Game and C++ programming.
+* And worth mentioning is [a list of recommended programming-related books from Ogre3D](http://wiki.ogre3d.org/Recommended+reading) for Graphics, Game and C++ programming.
 
 ### Getting Started :
 * Start by doing [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials).
