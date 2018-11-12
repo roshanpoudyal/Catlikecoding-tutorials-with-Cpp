@@ -10,13 +10,12 @@
 * Photorealistic computer graphics is ubiquitous today, with applications that include entertainment—notably, movies and video games; product design; and architecture. Donald Knuth wrote “This book has deservedly won an Academy Award. I believe it should also be nominated for a Pulitzer Prize.” Read about the book [Physically Based Rendering](http://www.pbr-book.org/), which will link you to the contents of the book to [Physically Based Rendering:Contents](http://www.pbr-book.org/3ed-2018/contents.html).
 And more fun - here is the [source code used by the book](https://github.com/mmp/pbrt-v3).
 
-### How?
-* There are following options in hand : 
-  1. Use a 3D rendering engine written in C++ - obvious choice is [Ogre3D](https://www.ogre3d.org/about) - to implement [catlikecoding tutorials](https://catlikecoding.com/unity/tutorials/) in C++.
-    - Get to know more of Ogre3D by following [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials).
-     - And worth mentioning is [a list of recommended programming-related books from Ogre3D](http://wiki.ogre3d.org/Recommended+reading) for Graphics, Game and C++ programming.
-  2. Another option is an open source C++ game engine - [GODOT](https://godotengine.org/). This game engine come on top in [this list](https://github.com/collections/game-engines) - as of 12/11/2018.
-  3. Yet another option can be a physics engine written in C++ - good choice is [Open Dynamics Engine (ODE)](https://bitbucket.org/odedevs/ode).
+### How? There are following options in hand : 
+1. Use a 3D rendering engine written in C++ - obvious choice is [Ogre3D](https://www.ogre3d.org/about) - to implement [catlikecoding tutorials](https://catlikecoding.com/unity/tutorials/) in C++.
+  - Get to know more of Ogre3D by following [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials).
+  - And worth mentioning is [a list of recommended programming-related books from Ogre3D](http://wiki.ogre3d.org/Recommended+reading) for Graphics, Game and C++ programming.
+2. Another option is an open source C++ game engine - [GODOT](https://godotengine.org/). This game engine come on top in [this list](https://github.com/collections/game-engines) - as of 12/11/2018.
+3. Yet another option can be a physics engine written in C++ - good choice is [Open Dynamics Engine (ODE)](https://bitbucket.org/odedevs/ode).
 
 ### Getting Started :
 * Start by doing [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials).
