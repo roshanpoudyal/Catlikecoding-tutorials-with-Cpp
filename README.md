@@ -23,4 +23,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 # Have Fun =)
 
-
+-------------------------
+### Extra food for thought (catlikecodeing with Blender/python):
+* Since [Blender](https://www.blender.org/) is also a cool rendering engine with a lot of features. Why not port the _catlikecoding_ tutorials also with Blender with Python scripting language.
+    - It can be a cool Blender practice playground.
