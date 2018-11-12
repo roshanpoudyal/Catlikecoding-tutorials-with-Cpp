@@ -12,8 +12,8 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ### How? There are following options in hand : 
 1. Use a 3D rendering engine written in C++ - obvious choice is [Ogre3D](https://www.ogre3d.org/about) - to implement [catlikecoding tutorials](https://catlikecoding.com/unity/tutorials/) in C++.
-  - Get to know more of Ogre3D by following [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials).
-  - And worth mentioning is [a list of recommended programming-related books from Ogre3D](http://wiki.ogre3d.org/Recommended+reading) for Graphics, Game and C++ programming.
+    - Get to know more of Ogre3D by following [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials).
+    - And worth mentioning is [a list of recommended programming-related books from Ogre3D](http://wiki.ogre3d.org/Recommended+reading) for Graphics, Game and C++ programming.
 2. Another option is an open source C++ game engine - [GODOT](https://godotengine.org/). This game engine come on top in [this list](https://github.com/collections/game-engines) - as of 12/11/2018.
 3. Yet another option can be a physics engine written in C++ - good choice is [Open Dynamics Engine (ODE)](https://bitbucket.org/odedevs/ode).
 
