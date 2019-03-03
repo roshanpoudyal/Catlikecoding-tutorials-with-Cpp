@@ -33,6 +33,9 @@
 *.so.*
 *.dylib
 
+# build folder
+build/*
+
 # Executables
 *.exe
 *.out

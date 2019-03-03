@@ -1,3 +1,9 @@
+### Updated todo:
+1. For using ogre, basic scene setup should be done so that rendering primitives and shapes is easier.
+    - Find out how to render a shape primitive like cube or sphere.
+    - Also mouse and keyboard interactivity needs to be taken care of.
+    - camera control should also be written.
+
 # CatlikecodingWithCpp
 ## [Catlikecoding](https://catlikecoding.com/unity/tutorials/) unity3D tutorials' implementation in C++ . A nice way to get introduced to C++.
 
