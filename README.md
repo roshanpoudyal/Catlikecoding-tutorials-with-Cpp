@@ -25,6 +25,9 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ### Getting Started :
 * Start by doing [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials).
+    - Some noticeable tutorials for example:
+        - [Generating a mesh (Cube) in memory using index and vertex buffer](http://wiki.ogre3d.org/Generating+A+Mesh).
+        - [Basic tutorial - Creating a full Ogre Application from Scratch.](http://wiki.ogre3d.org/Basic+Tutorial+6).
 * Start doing [catlikecoding tutorials](https://catlikecoding.com/unity/tutorials/) in Ogre3D and C++ alongside progression with Ogre3D.
 
 # Have Fun =)
