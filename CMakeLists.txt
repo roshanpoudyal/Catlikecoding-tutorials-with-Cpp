@@ -21,3 +21,6 @@ message("#######################################################################
 # Let us build the actual executables
 add_executable(basics_building_a_graph basics_building_a_graph.cpp)
 target_link_libraries(basics_building_a_graph ${OGRE_LIBRARIES})
+
+add_executable(tutorialApplication TutorialApplication.cpp)
+target_link_libraries(tutorialApplication ${OGRE_LIBRARIES})
