@@ -19,6 +19,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
 
 ### Getting Started :
 * Start doing [catlikecoding tutorials](https://catlikecoding.com/unity/tutorials/) in [Raylib](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-graphical-application-or-game-engine-with-raylib-has-very-good-c-bindings-as-base-library) in C++.
+* You can later also switch to this [C++ G3D game engine](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-any-graphical-application-with-the-g3d-) with well maintained repository by many contributors.
 
 # Have Fun =)
 
