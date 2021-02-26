@@ -16,6 +16,7 @@ And more fun - here is the [source code used by the book](https://github.com/mmp
     - Get to know more of Ogre3D by following [Ogre3D tutorials](http://wiki.ogre3d.org/Tutorials).
     - And worth mentioning is [a list of recommended programming-related books from Ogre3D](http://wiki.ogre3d.org/Recommended+reading) for Graphics, Game and C++ programming.
 3. Another option is an open source C++ game engine - [GODOT](https://godotengine.org/). This game engine come on top in [this list](https://github.com/collections/game-engines) - as of 12/11/2018.
+4. Another C++ game engine is [FlaxEngine](https://github.com/FlaxEngine/FlaxEngine), also can be used in linux.
 
 ### Getting Started :
 * Start doing [catlikecoding tutorials](https://catlikecoding.com/unity/tutorials/) in [Raylib](https://github.com/roshanpoudyal/3D_interactive_graphics_rendering_engine/blob/master/README.md#getting-started-with-developing-graphical-application-or-game-engine-with-raylib-has-very-good-c-bindings-as-base-library) in C++.
